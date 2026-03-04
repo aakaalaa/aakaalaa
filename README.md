@@ -11,7 +11,7 @@ Currently, I balance my time between scaling **Kini** and leading AI/ML talent m
 
 ---
 
-## 🧬 Featured Project: [Kini](thekiniapp.com) — The AI-Powered Entertainment Discovery App 
+## 🧬 Featured Project: [Kini](https://thekiniapp.com) — The AI-Powered Entertainment Discovery App 
 [thekiniapp.com
 ](thekiniapp.com)
 
