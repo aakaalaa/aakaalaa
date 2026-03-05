@@ -12,7 +12,7 @@ Currently, I balance my time between scaling **Kini** and leading AI/ML talent m
 ---
 
 ## 🧬 Featured Project: [Kini](https://thekiniapp.com) — The AI-Powered Entertainment Discovery App 
-[thekiniapp.com](https://thekiniapp.com)                [**app demo**](https://drive.google.com/drive/folders/1rd3gUftABpY7ptNDrP-eJ3wcSfKomyYO?usp=drive_link)
+ [**app demo**](https://drive.google.com/drive/folders/1rd3gUftABpY7ptNDrP-eJ3wcSfKomyYO?usp=drive_link)
 
 **Kini** is more than a watchlist; it’s a sophisticated recommendation architecture built to achieve a **45-second "Decision to Play"** target. It moves beyond traditional genre tags to capture the specific artistic DNA of over 50k films.
 
