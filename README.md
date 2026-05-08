@@ -16,7 +16,7 @@ Currently, I balance my time between scaling **Cini** and leading AI/ML talent m
 
 **Cini** is more than a watchlist; it’s a sophisticated recommendation architecture built to achieve a **45-second "Decision to Play"** target. It moves beyond traditional genre tags to capture the specific artistic DNA of over 50k films.
 
-### 🧠 The Kini Brain: Architecture Highlights
+### 🧠 The Cini Brain: Architecture Highlights
 
 
 * **The Cinephile DNA™:** A proprietary 12-metric rubric that scores films on continuous scales, including **Narrative Complexity**, **Pacing**, **Arousal Level**, and **Thematic Depth**.
@@ -29,7 +29,7 @@ Currently, I balance my time between scaling **Cini** and leading AI/ML talent m
 
 ### 🎨 Modern, Clean UI
 
-Kini features a dark, minimalist aesthetic focused on "Mood-Inspired Discovery". Users can select "vibes" (e.g., Cerebral, Twisted, Heartfelt) or use natural language prompts to navigate the library effortlessly.
+Cini features a dark, minimalist aesthetic focused on "Mood-Inspired Discovery". Users can select "vibes" (e.g., Cerebral, Twisted, Heartfelt) or use natural language prompts to navigate the library effortlessly.
 
 ---
 
