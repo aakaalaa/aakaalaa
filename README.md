@@ -1,20 +1,20 @@
 
 # Hi there! I'm Abimbola Akala 👋
 
-**Founder & Lead Architect @ Kini | Product Manager @ Workday | AI/ML Discovery Strategist**
+**Founder & Lead Architect @ Cini | Product Manager @ Workday | AI/ML Discovery Strategist**
 
 pronounced: Ah-bim-ball-ah    |    pronouns: she/her
 
-I am a cinephile and tech-geek obsessed with solving the "discovery paradox." I believe that finding the perfect movie shouldn't be a chore—it should be part of the magic. My passion for cinema and deep learning led me to build **Kini**, an autonomous discovery engine designed to understand the "soul" of content through high-dimensional data.
+I am a cinephile and tech-geek obsessed with solving the "discovery paradox." I believe that finding the perfect movie shouldn't be a chore—it should be part of the magic. My passion for cinema and deep learning led me to build **Cini**, an autonomous discovery engine designed to understand the "soul" of content through high-dimensional data.
 
-Currently, I balance my time between scaling **Kini** and leading AI/ML talent matching strategy at **Workday**, where I manage dual Scrum teams and deliver high-impact global features.
+Currently, I balance my time between scaling **Cini** and leading AI/ML talent matching strategy at **Workday**, where I manage dual Scrum teams and deliver high-impact global features.
 
 ---
 
-## 🧬 Featured Project: [Kini](https://thekiniapp.com) — The AI-Powered Entertainment Discovery App 
+## 🧬 Featured Project: [Cini](https://ciniapp.com) — The AI-Powered Entertainment Discovery App 
  [**app demo**](https://drive.google.com/drive/folders/1rd3gUftABpY7ptNDrP-eJ3wcSfKomyYO?usp=drive_link)
 
-**Kini** is more than a watchlist; it’s a sophisticated recommendation architecture built to achieve a **45-second "Decision to Play"** target. It moves beyond traditional genre tags to capture the specific artistic DNA of over 50k films.
+**Cini** is more than a watchlist; it’s a sophisticated recommendation architecture built to achieve a **45-second "Decision to Play"** target. It moves beyond traditional genre tags to capture the specific artistic DNA of over 50k films.
 
 ### 🧠 The Kini Brain: Architecture Highlights
 
@@ -61,9 +61,9 @@ Kini features a dark, minimalist aesthetic focused on "Mood-Inspired Discovery".
 
 * **LinkedIn:** [linkedin.com/in/abimbola-akala](https://www.google.com/search?q=https://linkedin.com/in/abimbola-akala) 
 
-* **Website:** [thekiniapp.com](https://thekiniapp.com) 
+* **Website:** [theciniapp.com](https://ciniapp.com) 
 
-* **Email:** [Abimbola@thekiniapp.com](mailto:Abimbola@thekiniapp.com)
+* **Email:** [Abimbola@ciniapp.com](mailto:Abimbola@tciniapp.com)
 
 
 <!--
