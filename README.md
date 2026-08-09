@@ -7,7 +7,7 @@ pronounced: Ah-bim-ball-ah    |    pronouns: she/her
 
 I am a cinephile and tech-geek obsessed with solving the "discovery paradox." I believe that finding the perfect movie shouldn't be a chore—it should be part of the magic. My passion for cinema and deep learning led me to build **Cini**, an autonomous discovery engine designed to understand the "soul" of content through high-dimensional data.
 
-Currently, I balance my time between scaling **Cini** and leading AI/ML talent matching strategy at **Workday**, where I manage dual Scrum teams and deliver high-impact global features.
+Currently, I balance my time between building **Cini** and building user-obsessed features for candidates and recruiters at **Workday**, where I manage dual Scrum teams and deliver high-impact global features.
 
 ---
 
@@ -36,7 +36,7 @@ Cini features a dark, minimalist aesthetic focused on "Mood-Inspired Discovery".
 ## 💼 Professional Experience & Background
 
  
-* **Workday (Product Manager, Senior Associate):** leading product strategy for a multi-sided talent marketplace. I specialize in leveraging behavioral data to drive hiring conversion and scaling AI/ML features that improve quality of hire.
+* **Workday (Product Manager, Senior Associate):** Building for a multi-sided talent marketplace. I specialize in leveraging behavioral data to drive hiring conversion and scaling AI/ML features that improve quality of hire, as well as the candidate (job-seeker) experience.
 
 * **Google Women Techmakers (Ambassador):** Dedicated to fostering inclusivity and education for women in technology.
 
